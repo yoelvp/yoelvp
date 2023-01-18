@@ -4,7 +4,7 @@
   <!-- Profile -->
   <p align="left">
     <strong>
-      <samp></samp>
+      <samp></samp>
     </strong>
   </p>
   
@@ -13,7 +13,9 @@
       <b>
         Hello There
         <br />
-        I'm Yoel Valverde, a student, I like programming and I enjoy it.
+        I'm Yoel Valverde, a student, I like programming  and I enjoy solving problems with code.
+        I'm a frontend web developer on React 
+        I like Linux  and penguins 
       </b>
       <br />
       <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+like+to+find+the+solution+to+a+problem.">
@@ -25,7 +27,7 @@
   </p>
   <p align="right">
     <strong>
-      <samp></samp>
+      <samp></samp>
     </strong>
   </p>
   <br>
