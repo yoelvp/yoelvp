@@ -64,7 +64,9 @@
 </b>
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:start;align-items:flex-start;gap:1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=yoelvp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelvp&theme=gruvbox&hide_border=false" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelvp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
