@@ -22,10 +22,13 @@
     </b>
     <div align="center">
       <a href="https://instagram.com/yoelvp73">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram profile" />
       </a>
       <a href="https://linkedin.com/in/yoelvalverdepolo">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin profile" />
+      </a>
+      <a href="https://yoelvalverde.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-30363D.svg?&logo=GitHub-Sponsors&logoColor=white" alt="portfolio yoel valverde" />
       </a>
     </div>
   </samp>
