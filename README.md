@@ -79,4 +79,5 @@
 
 <!-- ### Commits
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/yoelvp/yoelvp/blob/output/github-contribution-grid-snake.gif)
 </details>
