@@ -1,19 +1,22 @@
 <div align="center">
 <p align="left">
-  <samp></samp>
+  <samp> </samp>
 </p>
 
 <p align="center">
   <samp>
     <b>
-      Hello There
-      <br />
-      I'm Yoel Valverde, a student, I like programming  and I enjoy solving problems with code.
-      <br />
-      I'm a frontend web developer on React 
-      <br />
-      I like Linux  and penguins 
-    </br>
+    Hello!
+    <br />
+    I'm Yoel Valverde. I sketch the digital future through the art of web development, creating impactful and functional experiences .
+    <br />
+    I enjoy solving everyday problems with code .
+    <br />
+    I'm a fullstack developer in React , TypeScript 󰛦, Laravel 󰫐, and MySQL .
+    <br />
+    A secret, my crush is Rust .
+    <br />
+    I like Linux  and penguins .
     <br />
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+like+to+find+the+solution+to+a+problem." />
     <br /><br />
@@ -34,7 +37,7 @@
   </samp>
 </p>
 <p align="right">
-  <samp></samp>
+  <samp> </samp>
 </p>
 </div>
 <br>
