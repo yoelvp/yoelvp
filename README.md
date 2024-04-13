@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     <b>
-    Hola!
+    ¡Hola!
     <br />
     Soy Yoel Valverde. Desarrollador web.
     <br />
@@ -14,7 +14,7 @@
     <br />
     Disfruto usando Linux como mi entorno de trabajo.
     <br />
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Me+gusta+encontrar+la+solución+a+tus+problemas+codificando." />
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Tus+problemas+son+mi+solución" />
     <br /><br />
     <b>
       ~ Yoel Valverde Polo ~
