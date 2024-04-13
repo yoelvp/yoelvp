@@ -71,6 +71,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yoelvp&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4"/>
 
 
-### Frase del día
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&no-frame=false&margin-w=4&theme=gruvbox" />
+### Notas
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true&margin-w=4)](https://github.com/piyushsuthar/github-readme-quotes)
 </details>
