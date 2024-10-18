@@ -6,15 +6,13 @@
 <p align="center">
   <samp>
     <b>
-    ¡Hola!
+    ¡Hola :) Soy Yoel Valverde.!
     <br />
-    Soy Yoel Valverde. Desarrollador web.
+    +2 años de experiencia en desarrollo web.
+    <br /><br />
+    Desarrollador web especializado en soluciones digitales eficientes y escalables. Mi enfoque se centra en resolver problemas complejos con código limpio y mantenible.
     <br />
-    Disfruto resolviendo problemas cotidianos con código.
-    <br />
-    Disfruto usando Linux como mi entorno de trabajo.
-    <br />
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Tus+problemas+son+mi+solución" />
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Desarrollo+soluciones+digitales+eficientes+y+excalables" />
     <br /><br />
     <b>
       ~ Yoel Valverde Polo ~
@@ -23,10 +21,10 @@
       <a href="https://instagram.com/yoelvp73" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram profile" />
       </a>
-      <a href="https://linkedin.com/in/yoelvalverdepolo" target="_blank">
+      <a href="https://linkedin.com/in/yoelvalverde" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin profile" />
       </a>
-      <a href="https://yoelvalverde.netlify.app" target="_blank">
+      <a href="https://yoelvalverde.dev" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-30363D.svg?&logo=GitHub-Sponsors&logoColor=white" alt="portfolio yoel valverde" />
       </a>
     </div>
@@ -42,13 +40,13 @@
 <details>
 <summary>
   <samp>
-    <b>Más información</b>
   </samp>
+  <h3 syles="display:inline;">Más información</h3>
 </summary>
 
 
 ### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,astro,bootstrap,tailwind,sass,styledcomponents&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,bootstrap,tailwind,sass,styledcomponents&theme=dark)](https://skillicons.dev)
 
 
 ### Otras habilidades
