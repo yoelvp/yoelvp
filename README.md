@@ -18,14 +18,14 @@
       ~ Yoel Valverde Polo ~
     </b>
     <div align="center">
+      <a href="https://yoelvalverde.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-30363D.svg?&logo=GitHub-Sponsors&logoSize=24&logoColor=white" alt="portfolio yoel valverde" />
+      </a>
       <a href="https://instagram.com/yoelvp73" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram profile" />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoSize=24&logoColor=white" alt="instagram profile" />
       </a>
       <a href="https://linkedin.com/in/yoelvalverde" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin profile" />
-      </a>
-      <a href="https://yoelvalverde.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-30363D.svg?&logo=GitHub-Sponsors&logoColor=white" alt="portfolio yoel valverde" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoSize=24&logoColor=white" alt="linkedin profile" />
       </a>
     </div>
   </samp>
