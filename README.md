@@ -12,7 +12,7 @@
     <br /><br />
     Desarrollador web especializado en soluciones digitales eficientes y escalables. Mi enfoque se centra en resolver problemas complejos con código limpio y mantenible.
     <br /><br />
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&duration=8000&center=true&width=464&height=45&lines=Desarrollador+de+software" />
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&duration=8000&center=true&width=464&height=45&lines=Desarrollador+de+software+⌨️" />
     <br /><br />
     <b>
       ~ Yoel Valverde Polo ~
